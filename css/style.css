@@ -1,0 +1,16 @@
+#title {
+  color: red;
+  font-size: 50%;
+}
+
+.description {
+  color: blue;
+  font-style: oblique;
+  float: left;
+}
+
+
+.list{
+    width: 200px;
+    
+}
